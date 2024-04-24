@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.17;
-
+// conditional x3 or hours event cryptopunkstar
 contract ControlStructures {
     // Define custom errors for use within the contract
     error AfterHours(uint256 time);
