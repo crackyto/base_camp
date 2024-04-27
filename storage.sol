@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
-
+//storage salary condition cryptopunkstar
 contract EmployeeStorage {
     // Declare private state variables to store employee data
     uint16 private shares; // Number of shares owned by the employee (private to contract)
