@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
-
+//cryptopunkstar opunkstar create a array for memory number senders and timestamp. delete after with function
 contract ArraysExercise {
     // Declare state variables to store arrays of numbers, timestamps, and senders
     uint[] numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; // Array of numbers initialized with values
