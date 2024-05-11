@@ -7,7 +7,7 @@ import "./AddressBook.sol";
 // Contract pour instancier AddressBook qui fait partie de l'exercice 
 // https://docs.base.org/base-camp/docs/new-keyword/new-keyword-exercise/
 contract AddressBookFactory {
-    // Definir une veleur internet
+    // Definir une veleur interne
     string private salt = "value";
 
     // fonction pour deployer une noouvelle instance de AddressBook
